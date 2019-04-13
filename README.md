@@ -10,3 +10,5 @@
   <li>Speech Rate Customizer</li>
   <li>Text Highlighter</li>
 </ul>
+
+![alt text](https://raw.githubusercontent.com/Pharoouzy/tts-windows-form-application-csharp/master/path/to/sample.png)
