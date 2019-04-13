@@ -1,5 +1,6 @@
 ## Text-To-Speech Application
 
+![Demo](https://raw.githubusercontent.com/Pharoouzy/tts-windows-form-application-csharp/master/TextToSpeech/Resources/demo.png)
 
 <h4>Features</h4>
 <ul>
@@ -10,5 +11,3 @@
   <li>Speech Rate Customizer</li>
   <li>Text Highlighter</li>
 </ul>
-
-![Demo](https://raw.githubusercontent.com/Pharoouzy/tts-windows-form-application-csharp/master/TextToSpeech/Resources/demo.png)
