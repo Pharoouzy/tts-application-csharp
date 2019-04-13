@@ -11,4 +11,4 @@
   <li>Text Highlighter</li>
 </ul>
 
-![alt text](https://raw.githubusercontent.com/Pharoouzy/tts-windows-form-application-csharp/master/path/to/sample.png)
+![Demo](https://raw.githubusercontent.com/Pharoouzy/tts-windows-form-application-csharp/TextToSpeech/Resources/Screenshot (16).png)
